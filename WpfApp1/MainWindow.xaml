@@ -5,8 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="488.298" Width="940.426">
     <Grid>
-        
+        <DataGrid Name="myDataGrid" HorizontalAlignment="Left" Height="398" Margin="44,30,0,0" VerticalAlignment="Top" Width="845">
+            
+        </DataGrid>
+
     </Grid>
 </Window>
